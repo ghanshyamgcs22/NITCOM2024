@@ -164,7 +164,7 @@ font-size: 2.2rem;
     }
     .timeline .left-container-arrow,
     .timeline .right-container-arrow {
-        border-right: 15px solid red;
+        border-right: 15px solid white;
         border-left: 0;
         left: -15px;
     }
