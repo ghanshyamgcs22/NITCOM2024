@@ -10,10 +10,10 @@
    width: 80%;
    color: #4683a3;
    margin-top: 15px;
-   margin-left:15px; 
-   font-weight: 600;
+   margin-left:10px; 
+   font-weight: 700;
    margin-right: 15px;
-   font-size: 18px;
+   font-size: 16px;
    z-index: 6000;
    background-color: #fff;
  }
@@ -55,13 +55,14 @@
 }
   @media screen and (max-width: 1089px) {
    .imp-date{
-      font-size: 16px;
+      font-size: 15px;
+      font-weight: 700;
    }
   }
   @media screen and (max-width: 1089px) {
    .imp-date{
       font-size: 15px;
-      margin-left: 15px;
+      margin-left: 10px;
       font-weight: 700;
    }
   }
@@ -71,7 +72,7 @@
    }
    .imp-date{
       font-size: 15px;
-      margin-left: 15px;
+      margin-left: 10px;
       font-weight: 700;
    }
   }
